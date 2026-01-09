@@ -1,0 +1,7 @@
+**/__pycache__/
+.vscode
+
+
+
+BANNED_FILES/config.py
+BANNED_FILES/.env
