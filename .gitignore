@@ -5,3 +5,5 @@
 
 BANNED_FILES/config.py
 BANNED_FILES/.env
+data/items.json
+data/users.json
